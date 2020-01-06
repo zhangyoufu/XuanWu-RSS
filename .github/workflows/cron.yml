@@ -17,3 +17,5 @@ jobs:
     - run: exec .github/cron.sh
       env:
         GITHUB_PERSONAL_ACCESS_TOKEN: ${{ secrets.GITHUB_PERSONAL_ACCESS_TOKEN }}
+        WEIBO_USERNAME: ${{ secrets.WEIBO_USERNAME }}
+        WEIBO_PASSWORD: ${{ secrets.WEIBO_PASSWORD }}

@@ -17,9 +17,6 @@ logging.basicConfig(
     format='[%(levelname)s] %(message)s',
 )
 
-subprocess.check_call(['git', 'worktree', 'add', 'gh-pages', 'gh-pages'])
-
-os.chdir('gh-pages')
 token = os.environ['GITHUB_PERSONAL_ACCESS_TOKEN']
 owner, repo = os.environ['GITHUB_REPOSITORY'].split('/')
 feed_url = f'https://{owner}.github.io/{repo}/atom.xml'
@@ -46,7 +43,7 @@ feed.author({'name': '腾讯安全玄武实验室', 'uri': 'https://xlab.tencent
 feed.language('zh-CN')
 
 try:
-    with open('timestamp.txt') as f:
+    with open('gh-pages/timestamp.txt') as f:
         timestamp = datetime.datetime.fromisoformat(f.read())
 except Exception:
     timestamp = datetime.datetime.fromtimestamp(0, datetime.timezone.utc)
@@ -91,15 +88,12 @@ for url, title, publish_time in articles:
         entry.link(href=link)
         entry.content(content, type='html')
 
-with open('atom.xml', 'wb') as f:
+with open('gh-pages/atom.xml', 'wb') as f:
     f.write(feed.atom_str(pretty=True))
-with open('timestamp.txt', 'w') as f:
+with open('gh-pages/timestamp.txt', 'w') as f:
     f.write(timestamp.isoformat(timespec='minutes'))
 
-logging.info('commit to GitHub')
-subprocess.check_call(['git', 'add', '--all'])
-subprocess.check_call(['git', 'commit', '--amend', '--reset-author', '--message', 'automatic commit'])
-subprocess.check_call(['git', 'push', '--force'])
+subprocess.check_call(['.github/commit.sh'])
 
 logging.info('deploy GitHub Pages')
 req = urllib.request.Request(

@@ -124,7 +124,9 @@ for url, title, publish_time in articles:
     for idx, item in enumerate(match.group(1).split('\n<ul><br></ul>\n')):
         if '查看或搜索历史推送内容请访问' in item:
             continue
-        title, link, content = re.fullmatch(r'<p align="justify">(.*?):<a href="([^"]*)"><br>.*?</a></p>\n<p align="justify">・\xa0(.*?)\xa0–\xa0<a href="https://sec\.today/user/[-0-9a-f]+/pushes/">.*?</a></p>', item).groups()
+        lines = item.split('\n')
+        title, link = re.fullmatch(r'<p align="justify">(.*?):<a href="([^"]*)"><br>.*?</a></p>', lines[0]).groups()
+        content = '<br>'.join(re.fullmatch(r'<p align="justify">・\xa0(.*?)\xa0–\xa0<a href="https://sec\.today/user/[-0-9a-f]+/pushes/">.*?</a></p>', line).group(1) for line in lines[1:])
         title = html.unescape(title).replace('<i>', '').replace('</i>', '')
         content = html.unescape(content)
         entry = feed.add_entry(order='append')

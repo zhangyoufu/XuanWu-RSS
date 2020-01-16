@@ -21,10 +21,9 @@ logging.basicConfig(
 
 weibo_username = os.environ['WEIBO_USERNAME']
 weibo_password = os.environ['WEIBO_PASSWORD']
-token = os.environ['GITHUB_PERSONAL_ACCESS_TOKEN']
 owner, repo = os.environ['GITHUB_REPOSITORY'].split('/')
-feed_url = f'https://{owner}.github.io/{repo}/atom.xml'
-hub_url = 'https://pubsubhubbub.appspot.com/'
+feed_url = os.environ['FEED_URL']
+hub_url = os.environ['HUB_URL']
 
 session = requests.Session()
 
@@ -141,25 +140,3 @@ with open('gh-pages/atom.xml', 'wb') as f:
     f.write(feed.atom_str(pretty=True))
 with open('gh-pages/timestamp.txt', 'w') as f:
     f.write(timestamp.isoformat(timespec='minutes'))
-
-subprocess.check_call(['.github/commit.sh'])
-
-logging.info('deploy GitHub Pages')
-url = f'https://api.github.com/repos/{owner}/{repo}/pages'
-headers = {
-    'Authorization': f'token {token}',
-    'Accept': 'application/vnd.github.v3+json',
-}
-status = post(url+'/builds', headers=headers).json()['status']
-while status not in ('built', 'errored'):
-    time.sleep(5)
-    status = get(url, headers=headers).json()['status']
-assert status == 'built', f'GitHub Pages build failed'
-
-logging.info('notify WebSub hub')
-post(hub_url,
-    data={
-        'hub.mode': 'publish',
-        'hub.url': feed_url,
-    },
-)

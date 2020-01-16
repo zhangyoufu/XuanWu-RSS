@@ -19,3 +19,5 @@ jobs:
         GITHUB_PERSONAL_ACCESS_TOKEN: ${{ secrets.GITHUB_PERSONAL_ACCESS_TOKEN }}
         WEIBO_USERNAME: ${{ secrets.WEIBO_USERNAME }}
         WEIBO_PASSWORD: ${{ secrets.WEIBO_PASSWORD }}
+        FEED_URL: ${{ secrets.FEED_URL }}
+        HUB_URL: ${{ secrets.WEBSUB_HUB_URL }}

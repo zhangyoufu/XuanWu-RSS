@@ -97,7 +97,7 @@ for match in re.finditer(r'(?s) date="(\d+)".*?title="([^"]+)".*?action-data="ur
     publish_time, title, url = match.groups()
     publish_time = datetime.datetime.fromtimestamp(int(publish_time) / 1000, tz=CST)
     title = html.unescape(title)
-    url = html.unescape(url)
+    url = urllib.parse.unquote(url)
     articles.append((url, title, publish_time))
     if publish_time > timestamp:
         new_article_available = True

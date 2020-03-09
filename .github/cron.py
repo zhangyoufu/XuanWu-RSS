@@ -95,7 +95,7 @@ new_article_available = False
 CST = datetime.timezone(datetime.timedelta(hours=8))
 for match in re.finditer(r'(?s) date="(\d+)".*?title="([^"]+)".*?action-data="url=(https%3A%2F%2Fweibo.com%2Fttarticle%2Fp%2Fshow%3Fid%3D\d+)', body):
     publish_time, title, url = match.groups()
-    publish_time = datetime.datetime.fromtimestamp(int(publish_time) / 1000)
+    publish_time = datetime.datetime.fromtimestamp(int(publish_time) / 1000, tz=CST)
     title = html.unescape(title)
     url = html.unescape(url)
     articles.append((url, title, publish_time))

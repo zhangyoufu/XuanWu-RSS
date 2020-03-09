@@ -93,15 +93,11 @@ body = get('https://www.weibo.com/p/1006065582522936/wenzhang').text
 articles = []
 new_article_available = False
 CST = datetime.timezone(datetime.timedelta(hours=8))
-for match in re.finditer(r'<a target="_blank" href="([^"]+)" class="W_autocut S_txt1">\s*(.*?)</a>\s*</div>\s*</div>\s*<div class="subinfo_box">\s*<span class="subinfo S_txt2">(\d{4,}) 年 (\d{2}) 月 (\d{2}) 日 (\d{2}):(\d{2})</span>', body):
-    uri, title, *publish_time = match.groups()
-    uri = html.unescape(uri)
-    if uri.endswith('&mod=zwenzhang'):
-        uri = uri[:-14]
-    assert uri.startswith('/')
-    url = f'https://www.weibo.com{uri}'
+for match in re.finditer(r'(?s) date="(\d+)".*?title="([^"]+)".*?action-data="url=(https%3A%2F%2Fweibo.com%2Fttarticle%2Fp%2Fshow%3Fid%3D\d+)', body):
+    publish_time, title, url = match.groups()
+    publish_time = datetime.datetime.fromtimestamp(int(publish_time))
     title = html.unescape(title)
-    publish_time = datetime.datetime(*(int(s) for s in publish_time), tzinfo=CST)
+    url = html.unescape(url)
     articles.append((url, title, publish_time))
     if publish_time > timestamp:
         new_article_available = True

@@ -143,7 +143,9 @@ for url, title, publish_time in articles:
         entry.content(content, type='html')
         logging.info('entry: %s', title)
 
+feed.updated(timestamp)
+
 with open('gh-pages/atom.xml', 'wb') as f:
     f.write(feed.atom_str(pretty=True))
 with open('gh-pages/timestamp.txt', 'w') as f:
-    f.write(timestamp.isoformat(timespec='minutes'))
+    f.write(timestamp.isoformat())

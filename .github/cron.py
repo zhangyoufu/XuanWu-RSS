@@ -27,9 +27,20 @@ hub_url = os.environ['HUB_URL']
 
 session = requests.Session()
 
-def request(method, url, *, user_agent='Googlebot/2.1 (+http://www.google.com/bot.html)', **kwargs):
+def request(method, url, *, user_agent='Googlebot/2.1 (+http://www.google.com/bot.html)', retry=4, retry_interval=1, status_code=200, **kwargs):
     kwargs.setdefault('headers', {})['User-Agent'] = user_agent
-    return session.request(method, url, **kwargs)
+    kwargs.setdefault('timeout', 15)
+    for i in range(retry+1):
+        if i > 0:
+            logging.error(f'retry #{i}')
+        try:
+            rsp = session.request(method, url, **kwargs)
+            if rsp.status_code == status_code:
+                return rsp
+            logging.error(f'{rsp.status_code} {rsp.reason}')
+        except Exception:
+            logging.exception('exception during HTTP request')
+        time.sleep(retry_interval)
 
 def get(url, **kwargs):
     return request('GET', url, **kwargs)

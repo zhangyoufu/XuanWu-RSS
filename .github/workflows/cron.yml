@@ -5,7 +5,6 @@ on:
 
 jobs:
   cron:
-    if: github.ref == 'refs/heads/master'
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
@@ -26,6 +25,7 @@ jobs:
         FEED_URL: ${{ secrets.FEED_URL }}
         HUB_URL: ${{ secrets.WEBSUB_HUB_URL }}
     - name: Commit to gh-pages if dirty
+      if: github.ref == 'refs/heads/master'
       run: ./commit.sh
       env:
         GITHUB_PERSONAL_ACCESS_TOKEN: ${{ secrets.GITHUB_PERSONAL_ACCESS_TOKEN }}

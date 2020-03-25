@@ -11,13 +11,21 @@ jobs:
     - uses: actions/checkout@v2
     - run: |
         git fetch --no-tags origin +refs/heads/gh-pages:refs/remotes/origin/gh-pages
+    - name: Fetch gh-pages branch as worktree
+      run: git worktree add gh-pages gh-pages
     - uses: actions/setup-python@v1
       with:
         python-version: '3.x'
-    - run: exec .github/cron.sh
+    - name: Install dependencies
+      run: pip install -r requirements.txt
+    - name: Fetch articles and generate atom feed
+      run: ./cron.py
       env:
-        GITHUB_PERSONAL_ACCESS_TOKEN: ${{ secrets.GITHUB_PERSONAL_ACCESS_TOKEN }}
         WEIBO_USERNAME: ${{ secrets.WEIBO_USERNAME }}
         WEIBO_PASSWORD: ${{ secrets.WEIBO_PASSWORD }}
         FEED_URL: ${{ secrets.FEED_URL }}
         HUB_URL: ${{ secrets.WEBSUB_HUB_URL }}
+    - name: Commit to gh-pages if dirty
+      run: ./commit.sh
+      env:
+        GITHUB_PERSONAL_ACCESS_TOKEN: ${{ secrets.GITHUB_PERSONAL_ACCESS_TOKEN }}

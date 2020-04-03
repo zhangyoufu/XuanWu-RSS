@@ -99,6 +99,9 @@ try:
 except Exception:
     timestamp = datetime.datetime.fromtimestamp(0, datetime.timezone.utc)
 
+logging.info('logging in Weibo')
+weibo_login(weibo_username, weibo_password)
+
 logging.info('fetching article list')
 body = get('https://www.weibo.com/p/1006065582522936/wenzhang').text
 articles = []
@@ -117,9 +120,6 @@ for match in re.finditer(r'(?s) date="(\d+)".*?title="([^"]+)".*?action-data="ur
 if not new_article_available:
     logging.info('new articles not found')
     sys.exit(0)
-
-logging.info('logging in Weibo')
-weibo_login(weibo_username, weibo_password)
 
 for url, title, publish_time in articles:
     logging.info('fetching article %s', title)

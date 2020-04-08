@@ -132,7 +132,8 @@ for url, title, publish_time in articles:
             continue
         lines = item.split('\n')
         title, link = re.fullmatch(r'<p align="justify">(.*?):<a href="([^"]*)"><br>.*?</a></p>', lines[0]).groups()
-        content = '<br>'.join(re.fullmatch(r'<p align="justify">・\xa0(.*?)\xa0–\xa0<a href="https://sec\.today/user/[-0-9a-f]+/pushes/">.*?</a></p>', line).group(1) for line in lines[1:])
+        lines = [line for line in lines[1:] if '腾讯玄武实验室实习生招募令' not in line]
+        content = '<br>'.join(re.fullmatch(r'<p align="justify">・\xa0(.*?)\xa0–\xa0<a href="https://sec\.today/user/[-0-9a-f]+/pushes/">.*?</a></p>', line).group(1) for line in lines)
         title = html.unescape(title).replace('<i>', '').replace('</i>', '')
         content = html.unescape(content)
         entry = feed.add_entry(order='append')

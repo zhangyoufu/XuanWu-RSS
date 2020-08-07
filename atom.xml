@@ -1,0 +1,1428 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
+  <id>urn:uuid:18019db5-cd10-4a0a-b32c-bb060bf1b2fe</id>
+  <title>每日安全动态推送</title>
+  <updated>2020-08-07T11:55:09+08:00</updated>
+  <author>
+    <name>腾讯安全玄武实验室</name>
+    <uri>https://xlab.tencent.com/</uri>
+  </author>
+  <link href="https://zhangyoufu.github.io/XuanWu-RSS/atom.xml" rel="self"/>
+  <link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
+  <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
+  <logo>https://xlab.tencent.com/cn/wp-content/themes/twentysixteen/images/small_logo_144.png</logo>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404535254969876629#0</id>
+    <title>​​GitHub - secmob/TiYunZong-An-Exploit-Chain-to-Remotely-Root-Modern-Android-Devices</title>
+    <updated>2020-08-07T11:55:09+08:00</updated>
+    <content type="html">BlackHat 议题，TiYunZong - Android 系统的远程攻击面以及远程攻击基于高通的 Android 设备</content>
+    <link href="https://github.com/secmob/TiYunZong-An-Exploit-Chain-to-Remotely-Root-Modern-Android-Devices" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404535254969876629#1</id>
+    <title>[Android] GitHub - TrapaSecurity/presentations</title>
+    <updated>2020-08-07T11:55:09+08:00</updated>
+    <content type="html">BlackHat 议题 “Breaking Samsung's Root of Trust Exploiting Samsung Secure Boot”</content>
+    <link href="https://github.com/TrapaSecurity/presentations" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404535254969876629#2</id>
+    <title>一个字节的差错导致Cisco防火墙路由器远程代码执行</title>
+    <updated>2020-08-07T11:55:09+08:00</updated>
+    <content type="html">一个字节的差错导致Cisco防火墙路由器远程代码执行</content>
+    <link href="https://blogs.360.cn/post/yi-ge-zi-jie-cha-cuo-dao-zhi-Cisco-fang-huo-qiang-lu-you-qi-yuan-cheng-dai-ma-zhi-xing.html" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404535254969876629#3</id>
+    <title>Canon Admits Ransomware Attack in Employee Note, Report</title>
+    <updated>2020-08-07T11:55:09+08:00</updated>
+    <content type="html">佳能公司内网遭遇勒索软件攻击</content>
+    <link href="https://threatpost.com/canon-ransomware-attack-employee-note/158157/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404535254969876629#4</id>
+    <title>[PDF] https://i.blackhat.com/USA-20/Wednesday/us-20-Kovah-Finding-New-Bluetooth-Low-Energy-Exploits-Via-Reverse-Engineering-Multiple-Vendors-Firmwares.pdf</title>
+    <updated>2020-08-07T11:55:09+08:00</updated>
+    <content type="html">通过逆向多个产商的固件发现蓝牙低功耗设备的漏洞</content>
+    <link href="https://i.blackhat.com/USA-20/Wednesday/us-20-Kovah-Finding-New-Bluetooth-Low-Energy-Exploits-Via-Reverse-Engineering-Multiple-Vendors-Firmwares.pdf" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404535254969876629#5</id>
+    <title>Exploiting Android Messengers with WebRTC: Part 3</title>
+    <updated>2020-08-07T11:55:09+08:00</updated>
+    <content type="html">Exploiting Android Messengers with WebRTC: Part 3</content>
+    <link href="https://googleprojectzero.blogspot.com/2020/08/exploiting-android-messengers-part-3.html" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404535254969876629#6</id>
+    <title>TLS Poison</title>
+    <updated>2020-08-07T11:55:09+08:00</updated>
+    <content type="html">Blackhat 议题 “When TLS Hacks You” 的 PPT，利用 TLS 的固有行为实现通用 SSRF</content>
+    <link href="https://github.com/jmdx/TLS-poison" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404535254969876629#7</id>
+    <title>[Tools] GitHub - fireeye/capa: The FLARE team's open-source tool to identify capabilities in executable files.</title>
+    <updated>2020-08-07T11:55:09+08:00</updated>
+    <content type="html">Capa - FireEye 开源的用于探测 PE 文件行为的工具</content>
+    <link href="https://github.com/fireeye/capa" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404535254969876629#8</id>
+    <title>Bypassing MassLogger Anti-Analysis — a Man-in-the-Middle Approach</title>
+    <updated>2020-08-07T11:55:09+08:00</updated>
+    <content type="html">用中间人劫持的方法解决 MassLogger Anti-Analysis 的问题</content>
+    <link href="https://www.fireeye.com/blog/threat-research/2020/08/bypassing-masslogger-anti-analysis-man-in-the-middle-approach.html" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404535254969876629#9</id>
+    <title>Emulating Samsung’s Baseband for Security Testing</title>
+    <updated>2020-08-07T11:55:09+08:00</updated>
+    <content type="html">Emulating Samsung’s Baseband for Security Testing</content>
+    <link href="https://docs.google.com/presentation/d/1GjDboSQhMdNzm1BxejD_SOqY6brkpHYOh58VEYBs5cI" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404535254969876629#10</id>
+    <title>[Report] Incident Response Analyst Report 2019</title>
+    <updated>2020-08-07T11:55:09+08:00</updated>
+    <content type="html">卡巴斯基发布 2019 应急响应分析报告</content>
+    <link href="https://securelist.com/incident-response-analyst-report-2019/97974/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404535254969876629#11</id>
+    <title>[Android, Wireless] [PDF] https://i.blackhat.com/USA-20/Wednesday/us-20-Xu-Stealthily-Access-Your-Android-Phones-Bypass-The-Bluetooth-Authentication.pdf</title>
+    <updated>2020-08-07T11:55:09+08:00</updated>
+    <content type="html">绕过蓝牙认证，访问手机的数据，来自 BlackHat</content>
+    <link href="https://i.blackhat.com/USA-20/Wednesday/us-20-Xu-Stealthily-Access-Your-Android-Phones-Bypass-The-Bluetooth-Authentication.pdf" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404535254969876629#12</id>
+    <title>maddiestone/ConPresentations</title>
+    <updated>2020-08-07T11:55:09+08:00</updated>
+    <content type="html">Project Zero Maddie Stone BlackHat 演讲 “Reversing the Root: Identifying the Exploited Vulnerability in 0-days Used In-The-Wild” PPT</content>
+    <link href="https://github.com/maddiestone/ConPresentations/blob/master/BH2020.ReversingTheRoot.pdf" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404534882675064933#0</id>
+    <title>​​【安全通知】PyPI 官方仓库遭遇request恶意包投毒</title>
+    <updated>2020-08-06T11:15:46+08:00</updated>
+    <content type="html">PyPI 官方仓库遭遇request恶意包投毒</content>
+    <link href="https://mp.weixin.qq.com/s/dkPdXfGfSK097GI6Ln92lA" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404534882675064933#1</id>
+    <title>[iOS, Tools, Reverse Engineering] GitHub - 0x36/ghidra_kernelcache: a Ghidra framework for iOS kernelcache reverse engineering</title>
+    <updated>2020-08-06T11:15:46+08:00</updated>
+    <content type="html">iOS内核逆向框架ghidra_kernelcache</content>
+    <link href="https://github.com/0x36/ghidra_kernelcache" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404534882675064933#2</id>
+    <title>[Network] Network-layer DDoS attack trends for Q2 2020</title>
+    <updated>2020-08-06T11:15:46+08:00</updated>
+    <content type="html">2020年第二季度DDOS攻击分析报告</content>
+    <link href="https://cfl.re/3kl6RCL" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404534882675064933#3</id>
+    <title>[Web] Web Cache Entanglement: Novel Pathways to Poisoning</title>
+    <updated>2020-08-06T11:15:46+08:00</updated>
+    <content type="html">Web缓存纠缠，一种Web缓存中毒的新姿势</content>
+    <link href="https://portswigger.net/research/web-cache-entanglement" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404534882675064933#4</id>
+    <title>Congratulations to the MSRC’s 2020 Most Valuable Security Researchers</title>
+    <updated>2020-08-06T11:15:46+08:00</updated>
+    <content type="html">微软 MSRC’s 2020 Most Valuable Security Researchers 榜单公布</content>
+    <link href="https://msrc-blog.microsoft.com/2020/08/05/announcing-2020-msrc-most-valuable-security-researchers/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404534882675064933#5</id>
+    <title>[Tools] JSON Schema Store</title>
+    <updated>2020-08-06T11:15:46+08:00</updated>
+    <content type="html">JSON模式存储：所有常见JSON文件格式的模式- </content>
+    <link href="https://www.schemastore.org/json/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404534882675064933#6</id>
+    <title>OpBlueRaven: Unveiling Fin7/Carbanak - Part 1 : Tirion</title>
+    <updated>2020-08-06T11:15:46+08:00</updated>
+    <content type="html">OpBlueRaven：揭幕Fin7 APT小组的恶意软件威胁/ Carbanak-第1部分：Tirion。</content>
+    <link href="https://threatintelligence.blog/OPBlueRaven-Part1/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404534882675064933#7</id>
+    <title>Pwn2Own -&gt; Xxe2Rce | muffSec</title>
+    <updated>2020-08-06T11:15:46+08:00</updated>
+    <content type="html">Pwn2Own 中的 Xxe2Rce 漏洞详解</content>
+    <link href="http://muffsec.com/blog/?p=608" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404534882675064933#8</id>
+    <title>[Windows] Kerberoasting: A Blue Team Perspective</title>
+    <updated>2020-08-06T11:15:46+08:00</updated>
+    <content type="html">Kerberoasting: 以蓝队的安全防守角度来实施。</content>
+    <link href="https://link.medium.com/63WCnMoYF8" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404534882675064933#9</id>
+    <title>[Tools] Anti-Debug Tricks</title>
+    <updated>2020-08-06T11:15:46+08:00</updated>
+    <content type="html">Checkpoint 对反调试（Anti-Debug）技术的总结</content>
+    <link href="https://anti-debug.checkpoint.com/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404534882675064933#10</id>
+    <title>Vulnerabilities in the Openfire Admin Console</title>
+    <updated>2020-08-06T11:15:46+08:00</updated>
+    <content type="html">Openfire Admin Console 的两个漏洞：SSRF 和任意文件读</content>
+    <link href="https://swarm.ptsecurity.com/openfire-admin-console/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404534882675064933#11</id>
+    <title>[Vulnerability] Steps to reproduce</title>
+    <updated>2020-08-06T11:15:46+08:00</updated>
+    <content type="html">gitlab.com 的存储型 XSS 漏洞</content>
+    <link href="https://hackerone.com/reports/806571" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404534882675064933#12</id>
+    <title>[Android] Exploiting Android Messengers with WebRTC: Part 2</title>
+    <updated>2020-08-06T11:15:46+08:00</updated>
+    <content type="html">Exploiting Android Messengers with WebRTC: Part 2</content>
+    <link href="https://googleprojectzero.blogspot.com/2020/08/exploiting-android-messengers-part-2.html?m=1" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404534882675064933#13</id>
+    <title>[Tools] IDA Pro Reverse Engineering Tutorial for Beginners</title>
+    <updated>2020-08-06T11:15:46+08:00</updated>
+    <content type="html">IDA Pro逆向工程入门教程视频</content>
+    <link href="https://bit.ly/2Pp2LLr" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404534526071406641#0</id>
+    <title>​​[Tools] FUDGE: Fuzz Driver Generation at Scale</title>
+    <updated>2020-08-05T11:38:45+08:00</updated>
+    <content type="html">FUDGE: Fuzz Driver Generation at Scale，大规模自动化生产用于 Fuzz 目标的测试驱动代码</content>
+    <link href="https://research.google/pubs/pub48314/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404534526071406641#1</id>
+    <title>Apache Struts research at scale, Part 3: Exploitation - Security Boulevard</title>
+    <updated>2020-08-05T11:38:45+08:00</updated>
+    <content type="html">Apache Struts版本大规模安全研究，第3部分：开发。</content>
+    <link href="https://feedproxy.google.com/~r/SecurityBloggersNetwork/~3/F7l7TvlFO5U/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404534526071406641#2</id>
+    <title>CVE-2020-14644 分析与 gadget 的一些思考</title>
+    <updated>2020-08-05T11:38:45+08:00</updated>
+    <content type="html">Weblogic CVE-2020-14644 分析与 gadget 的一些思考 </content>
+    <link href="https://paper.seebug.org/1281/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404534526071406641#3</id>
+    <title>Debugging DLL’s – 3 techniques to help you get started</title>
+    <updated>2020-08-05T11:38:45+08:00</updated>
+    <content type="html">调试 DLL 代码的几种方法</content>
+    <link href="https://blog.nviso.eu/2020/08/04/debugging-dlls-3-techniques-to-help-you-get-started/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404534526071406641#4</id>
+    <title>AST Injection, Prototype Pollution to RCE</title>
+    <updated>2020-08-05T11:38:45+08:00</updated>
+    <content type="html">通过 AST 注入技术实现两个主流模板引擎的 RCE</content>
+    <link href="https://blog.p6.is/AST-Injection/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404534526071406641#5</id>
+    <title>Masking Malicious Memory Artifacts – Part III: Bypassing Defensive Scanners - Security Boulevard</title>
+    <updated>2020-08-05T11:38:45+08:00</updated>
+    <content type="html">恶意内存隐藏第三部分-绕过杀软扫描</content>
+    <link href="https://feedproxy.google.com/~r/SecurityBloggersNetwork/~3/3937O87cO10/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404534526071406641#6</id>
+    <title>A Pentesters Guide - Part 5 (Unmasking WAFs and Finding the Source)</title>
+    <updated>2020-08-05T11:38:45+08:00</updated>
+    <content type="html">渗透测试者指南-第5部分（揭露WAF和查找源）</content>
+    <link href="https://delta.navisec.io/a-pentesters-guide-part-5-unmasking-wafs-and-finding-the-source/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404534526071406641#7</id>
+    <title>[CTF] Announcing the Seventh Annual Flare-On Challenge</title>
+    <updated>2020-08-05T11:38:45+08:00</updated>
+    <content type="html">今年的 Flare-On CTF 将于下个月举办</content>
+    <link href="https://www.fireeye.com/blog/threat-research/2020/08/announcing-the-seventh-annual-flare-on-challenge.html" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404534526071406641#8</id>
+    <title>[Tools] EnumerationList</title>
+    <updated>2020-08-05T11:38:45+08:00</updated>
+    <content type="html">用于枚举子域wordlist，php文件路径，html文件路径和js文件路径的开源工具</content>
+    <link href="https://github.com/Droidzzzio/EnumerationList" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404534526071406641#9</id>
+    <title>[Web] Cookie Based PHP Local File Inclusion ( Bug Bounty)</title>
+    <updated>2020-08-05T11:38:45+08:00</updated>
+    <content type="html">基于Cookie的PHP本地文件包含漏洞</content>
+    <link href="https://link.medium.com/QxVy7k2GE8" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404534526071406641#10</id>
+    <title>MMS Exploit Part 4: MMS Primer, Completing the ASLR Oracle</title>
+    <updated>2020-08-05T11:38:45+08:00</updated>
+    <content type="html">MMS Exploit Part 4: MMS Primer, Completing the ASLR Oracle </content>
+    <link href="https://googleprojectzero.blogspot.com/2020/08/mms-exploit-part-4-completing-aslr-oracle.html" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404534526071406641#11</id>
+    <title>[macOS] Objective-See's Blog</title>
+    <updated>2020-08-05T11:38:45+08:00</updated>
+    <content type="html">CVE-2020–9854: "Unauthd" - (three) logic bugs ftw!</content>
+    <link href="https://objective-see.com/blog/blog_0x4D.html" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404534526071406641#12</id>
+    <title>[Tools] cobbr/Covenant</title>
+    <updated>2020-08-05T11:38:45+08:00</updated>
+    <content type="html">.NET 编写的一款 C&amp;C 渗透框架</content>
+    <link href="https://github.com/cobbr/Covenant" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404534526071406641#13</id>
+    <title>[Android] Why are Frida and QBDI a Great Blend on Android?</title>
+    <updated>2020-08-05T11:38:45+08:00</updated>
+    <content type="html">利用 Frida 和 QBDI 动态分析 Android Native Function</content>
+    <link href="http://blog.quarkslab.com/why-are-frida-and-qbdi-a-great-blend-on-android.html" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404534159400894621#0</id>
+    <title>​​[Tools] Mistica - An Open Source Swiss Army Knife For Arbitrary Communication Over Application Protocols</title>
+    <updated>2020-08-04T11:21:44+08:00</updated>
+    <content type="html">开源的协议封装工具Mistica</content>
+    <link href="https://ift.tt/39OCWhl" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404534159400894621#1</id>
+    <title>[Tools] BlackBerry releases new security tool for reverse-engineering PE files | ZDNet</title>
+    <updated>2020-08-04T11:21:44+08:00</updated>
+    <content type="html">BlackBerry发布了用于对PE文件进行逆向的新安全工具PEtree </content>
+    <link href="https://www.zdnet.com/article/blackberry-releases-new-security-tool-for-reverse-engineering-pe-files/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404534159400894621#2</id>
+    <title>Reverse Engineering Starling Bank (Part II): Jailbreak &amp; Debugger Detection, Weaknesses &amp; Mitigations</title>
+    <updated>2020-08-04T11:21:44+08:00</updated>
+    <content type="html">逆向工程Starling Bank（第二部分）：越狱和调试器检测，弱点和缓解措施。 </content>
+    <link href="https://hot3eed.github.io/2020/08/02/starling_p2_detections_mitigations.html" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404534159400894621#3</id>
+    <title>[Pentest] FlutterApp Penetration Testing (Another Way to Bypass SSL Pinning)</title>
+    <updated>2020-08-04T11:21:44+08:00</updated>
+    <content type="html">如何通过flutter进行SSL Pinning绕过</content>
+    <link href="https://link.medium.com/e0wN9RbZC8" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404534159400894621#4</id>
+    <title>[iOS] sockaddr-&gt;sa_len的痛</title>
+    <updated>2020-08-04T11:21:44+08:00</updated>
+    <content type="html">盘古对 Ian Beer 发现的 XNU 内核 mptcp 模块 sockaddr 相关漏洞的分析</content>
+    <link href="https://blog.pangu.io/?p=195" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404534159400894621#5</id>
+    <title>[Malware] SANS ISC: InfoSec Handlers Diary Blog InfoSec Handlers Diary Blog</title>
+    <updated>2020-08-04T11:21:44+08:00</updated>
+    <content type="html">具有多个C2协议的powershell bot分析</content>
+    <link href="https://isc.sans.edu/diary/26420" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404534159400894621#6</id>
+    <title>Blue Team Rust: What is "Memory Safety", really?</title>
+    <updated>2020-08-04T11:21:44+08:00</updated>
+    <content type="html">从蓝队角度介绍内存安全</content>
+    <link href="https://tiemoko.com/blog/blue-team-rust/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404534159400894621#7</id>
+    <title>[Tools] WMCTF 2020 Writeup - CTFするぞ</title>
+    <updated>2020-08-04T11:21:44+08:00</updated>
+    <content type="html">WMCTF 2020 Writeup</content>
+    <link href="https://ptr-yudai.hatenablog.com/entry/2020/08/03/120153" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404534159400894621#8</id>
+    <title>使用Ghidra P-Code对OLLVM控制流平坦化进行反混淆</title>
+    <updated>2020-08-04T11:21:44+08:00</updated>
+    <content type="html">使用 Ghidra P-Code 对 OLLVM 控制流平坦化进行反混淆 </content>
+    <link href="https://galaxylab.com.cn/%E4%BD%BF%E7%94%A8ghidra-p-code%E5%AF%B9ollvm%E6%8E%A7%E5%88%B6%E6%B5%81%E5%B9%B3%E5%9D%A6%E5%8C%96%E8%BF%9B%E8%A1%8C%E5%8F%8D%E6%B7%B7%E6%B7%86/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404534159400894621#9</id>
+    <title>[Browser] Technical analysis: CVE-2020-15654 and a history of Firefox “Browser Lock” bugs</title>
+    <updated>2020-08-04T11:21:44+08:00</updated>
+    <content type="html">浏览器漏洞CVE-2020-15654技术分析</content>
+    <link href="https://news.sophos.com/en-us/2020/08/03/technical-analysis-cve-2020-15654-and-a-history-of-firefox-browser-lock-bugs/?cmp=30728" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404534159400894621#10</id>
+    <title>[Android] Exploiting Android Messengers with WebRTC: Part 1</title>
+    <updated>2020-08-04T11:21:44+08:00</updated>
+    <content type="html">Exploiting Android Messengers with WebRTC: Part 1</content>
+    <link href="https://googleprojectzero.blogspot.com/2020/08/exploiting-android-messengers-part-1.html" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404534159400894621#11</id>
+    <title>Exploiting SKYSEA Activity Monitor</title>
+    <updated>2020-08-04T11:21:44+08:00</updated>
+    <content type="html">Exploiting SKYSEA Activity Monitor </content>
+    <link href="https://acru3l.github.io/2020/08/03/exploiting-activity-monitor-driver/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404534159400894621#12</id>
+    <title>[Tools, Fuzzing] nautilus-fuzz/nautilus</title>
+    <updated>2020-08-04T11:21:44+08:00</updated>
+    <content type="html">基于 NDSS 2019 一篇 Paper 实现的一个基于 Grammar、Coverage Guided 的 Fuzzer</content>
+    <link href="https://github.com/nautilus-fuzz/nautilus" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404534159400894621#13</id>
+    <title>[Web] InCTF-2020 GoSQLv3 challenge writeup</title>
+    <updated>2020-08-04T11:21:44+08:00</updated>
+    <content type="html">InCTF2020-GoSQLv3 Writeup</content>
+    <link href="https://spyclub.tech/2020/08/02/inctf2020-gosqlv3-challenge-writeup/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404534159400894621#14</id>
+    <title>[Windows] Critical, Protected, DUT Processes in Windows 10</title>
+    <updated>2020-08-04T11:21:44+08:00</updated>
+    <content type="html">Windows 10 build 20161 版本 EPROCESS 结构体新增了一个 DisallowUserTerminate flag，用于保护进程不被用户强制 Kill</content>
+    <link href="https://windows-internals.com/dut-processes-in-windows-10/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404534159400894621#15</id>
+    <title>[Tools] arieljt/VTCodeSimilarity-YaraGen</title>
+    <updated>2020-08-04T11:21:44+08:00</updated>
+    <content type="html">使用VirusTotal代码相似性功能的Yara规则生成器</content>
+    <link href="https://github.com/arieljt/VTCodeSimilarity-YaraGen" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404534159400894621#16</id>
+    <title>[Tools, Windows] Telemetry Sourcerer</title>
+    <updated>2020-08-04T11:21:44+08:00</updated>
+    <content type="html">红队开源工具Telemetry Sourcerer可以枚举和禁用Windows上的AV / EDR </content>
+    <link href="https://github.com/jthuraisamy/TelemetrySourcerer" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404534159400894621#17</id>
+    <title>[Android, Reverse Engineering] Android App Reverse Engineering 101</title>
+    <updated>2020-08-04T11:21:44+08:00</updated>
+    <content type="html">Android App逆向工程101</content>
+    <link href="https://maddiestone.github.io/AndroidAppRE/app_fundamentals.html" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404534159400894621#18</id>
+    <title>MPTCP Integer Overflow Vulnerability</title>
+    <updated>2020-08-04T11:21:44+08:00</updated>
+    <content type="html">MPTCP整数溢出漏洞概要分析</content>
+    <link href="https://blog.pangu.io/?p=213" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404533799391199431#0</id>
+    <title>​​[Malware] WastedLocker: technical analysis</title>
+    <updated>2020-08-03T11:31:11+08:00</updated>
+    <content type="html">卡巴斯基对前两周 Garmin 公司被攻击涉及 WastedLocker 勒索软件的分析</content>
+    <link href="https://securelist.com/wastedlocker-technical-analysis/97944/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404533799391199431#1</id>
+    <title>[Tools] DeimosC2 - A Golang Command And Control Framework For Post-Exploitation</title>
+    <updated>2020-08-03T11:31:11+08:00</updated>
+    <content type="html">由Golang和Vue.js编写的C2工具DeimosC2</content>
+    <link href="https://ift.tt/2Pg9pn1" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404533799391199431#2</id>
+    <title>[Windows, Tools] Removing Kernel Callbacks Using Signed Drivers</title>
+    <updated>2020-08-03T11:31:11+08:00</updated>
+    <content type="html">使用签名的驱动程序删除内核回调 </content>
+    <link href="https://br-sn.github.io/Removing-Kernel-Callbacks-Using-Signed-Drivers/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404533799391199431#3</id>
+    <title>Vulnerability Spotlight: Microsoft issues security update for Azure Sphere</title>
+    <updated>2020-08-03T11:31:11+08:00</updated>
+    <content type="html">微软基于云的 SoC 平台 Azure Sphere 被发现多个漏洞</content>
+    <link href="https://feedproxy.google.com/~r/feedburner/Talos/~3/DbOLc1HYXc4/vuln-spotlight-azure-sphere-july-2020.html" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404533799391199431#4</id>
+    <title>[macOS, Tools] cedowens/MacShellSwift</title>
+    <updated>2020-08-03T11:31:11+08:00</updated>
+    <content type="html">用于 macOS 渗透测试中收集 Client 的信息</content>
+    <link href="https://buff.ly/2naCCoI" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404533799391199431#5</id>
+    <title>Tutorial of ARM Stack Overflow Exploit against SETUID Root Program</title>
+    <updated>2020-08-03T11:31:11+08:00</updated>
+    <content type="html">ARM 平台 setuid 程序栈溢出漏洞利用教程</content>
+    <link href="https://feedproxy.google.com/~r/fortinet/blog/threat-research/~3/1a9e8e64GRY/tutorial-arm-stack-overflow-exploit-against-setuid-root-program" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404533799391199431#6</id>
+    <title>[Forensics, Tools] CTF_Writeups/InCTF at master · 5h3r10ck/CTF_Writeups · GitHub</title>
+    <updated>2020-08-03T11:31:11+08:00</updated>
+    <content type="html">一例取证CTF题目的Writeup</content>
+    <link href="https://github.com/5h3r10ck/CTF_Writeups/tree/master/InCTF" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404533799391199431#7</id>
+    <title>[Reverse Engineering] Reverse-engineering the adder inside the Intel 8086</title>
+    <updated>2020-08-03T11:31:11+08:00</updated>
+    <content type="html">针对英特尔8086内部的加法器进行逆向工程研究。</content>
+    <link href="http://www.righto.com/2020/08/reverse-engineering-adder-inside-intel.html" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404533799391199431#8</id>
+    <title>[macOS, iOS] The core of Apple is PPL: Breaking the XNU kernel's kernel</title>
+    <updated>2020-08-03T11:31:11+08:00</updated>
+    <content type="html">The core of Apple is PPL: Breaking the XNU kernel's kernel</content>
+    <link href="https://googleprojectzero.blogspot.com/2020/07/the-core-of-apple-is-ppl-breaking-xnu.html" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404533799391199431#9</id>
+    <title>[Tools, Programming] Using syzkaller, part 4: Driver fuzzing</title>
+    <updated>2020-08-03T11:31:11+08:00</updated>
+    <content type="html">如何使用syzkaller对驱动程序进行fuzzing</content>
+    <link href="https://col.la/k3gw8" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404533799391199431#10</id>
+    <title>Data Exfiltration with Base64</title>
+    <updated>2020-08-03T11:31:11+08:00</updated>
+    <content type="html">使用Base64编码进行数据渗透测试。</content>
+    <link href="https://www.trenchesofit.com/2020/08/01/data-exfiltration-with-base64/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404533799391199431#11</id>
+    <title>[Web] CVE-2020-13379</title>
+    <updated>2020-08-03T11:31:11+08:00</updated>
+    <content type="html">Unauthenticated Full-Read SSRF in Grafana</content>
+    <link href="https://rhynorater.github.io/CVE-2020-13379-Write-Up" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404533799391199431#12</id>
+    <title>[Programming] Debugging Incidents in Google's Distributed Systems</title>
+    <updated>2020-08-03T11:31:11+08:00</updated>
+    <content type="html">如何调试Google分布式系统中的事件</content>
+    <link href="https://queue.acm.org/detail.cfm?id=3404974" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404533799391199431#13</id>
+    <title>IDA Plugins</title>
+    <updated>2020-08-03T11:31:11+08:00</updated>
+    <content type="html">为 IDA 提供寄存器引用跟踪的插件</content>
+    <link href="https://github.com/repnz/ida-plugins" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404533799391199431#14</id>
+    <title>Offense and Defense – A Tale of Two Sides: Group Policy and Logon Scripts</title>
+    <updated>2020-08-03T11:31:11+08:00</updated>
+    <content type="html">Windows 系统组策略对象（GPO）AD 域环境中的攻击与防御</content>
+    <link href="https://feedproxy.google.com/~r/fortinet/blog/threat-research/~3/Kj0S6UjL8ao/offense-defense-a-tale-of-two-sides-group-policy-and-logon-scripts" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404533799391199431#15</id>
+    <title>[Side Channel] Attacks on Implementations of Secure Systems</title>
+    <updated>2020-08-03T11:31:11+08:00</updated>
+    <content type="html">Yossi Oren博士《对安全系统实施攻击》课程的相关资料已上传到github</content>
+    <link href="https://github.com/Yossioren/AttacksonImplementationsCourseBook" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404532713515253971#0</id>
+    <title>​​GHSL-2020-072: Arbitrary file disclosure in JinJava - CVE-2020-12668</title>
+    <updated>2020-07-31T11:36:18+08:00</updated>
+    <content type="html">JinJava 任意文件读漏洞分析（CVE-2020-12668）</content>
+    <link href="https://github.co/2Ex8cG3" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404532713515253971#1</id>
+    <title>[Tools] mitre-attack/attack-scripts</title>
+    <updated>2020-07-31T11:36:18+08:00</updated>
+    <content type="html">关于辅助实现自动化ATT＆CK归纳的python脚本</content>
+    <link href="https://github.com/mitre-attack/attack-scripts/tree/master/layers" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404532713515253971#2</id>
+    <title>Hunting 0-days in Cisco DCNM with ShiftLeft Ocular</title>
+    <updated>2020-07-31T11:36:18+08:00</updated>
+    <content type="html">Hunting 0-days in Cisco Data Center Network Manager (DCNM) with ShiftLeft Ocular</content>
+    <link href="https://blog.shiftleft.io/hunting-0-days-in-cisco-dcnm-with-shiftleft-ocular-a3091bb8ef29" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404532713515253971#3</id>
+    <title>[Tools, Malware] Unpacking Pyrogenic/Qealler using Java agent -Part 0x2</title>
+    <updated>2020-07-31T11:36:18+08:00</updated>
+    <content type="html">使用Java代理解压缩/ Qealler拆包分析-第0x2部分。</content>
+    <link href="https://www.securityinbits.com/malware-analysis/unpacking/unpacking-pyrogenic-qealler-using-java-agent-part-0x2/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404532713515253971#4</id>
+    <title>Bitdefender Napoca Hypervisor</title>
+    <updated>2020-07-31T11:36:18+08:00</updated>
+    <content type="html">Napoca - Bitdefender 开源的 Hypervisor，提供多个安全相关的功能</content>
+    <link href="https://github.com/napocahv/napoca" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404532713515253971#5</id>
+    <title>[Android, Malware] Android worm malware spreads via SMS in India as TikTok Pro | Android Malware | Fake TikTok Pro</title>
+    <updated>2020-07-31T11:36:18+08:00</updated>
+    <content type="html">Android SMS蠕虫恶意软件正通过TikTok Pro在印度传播 </content>
+    <link href="https://youtu.be/mzkDxBjshI4" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404532713515253971#6</id>
+    <title>Obscured by Clouds: Insights into Office 365 Attacks and How Mandiant Managed Defense Investigates</title>
+    <updated>2020-07-31T11:36:18+08:00</updated>
+    <content type="html">如何基于 Office 365 提供的日志等信息分析商业邮箱入侵事件</content>
+    <link href="https://www.fireeye.com/blog/threat-research/2020/07/insights-into-office-365-attacks-and-how-managed-defense-investigates.html" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404532713515253971#7</id>
+    <title>[Crypto] Zoom Security Exploit – Cracking private meeting passwords</title>
+    <updated>2020-07-31T11:36:18+08:00</updated>
+    <content type="html">Zoom 服务的私有会议密码存在可爆破漏洞，导致会议密码可破解</content>
+    <link href="https://www.tomanthony.co.uk/blog/zoom-security-exploit-crack-private-meeting-passwords/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404532713515253971#8</id>
+    <title>[Reverse Engineering] Reverse Engineering Starling Bank (Part I): Obfuscation Techniques</title>
+    <updated>2020-07-31T11:36:18+08:00</updated>
+    <content type="html">iOS App Starling Bank 的混淆技术分析</content>
+    <link href="https://hot3eed.github.io/2020/07/30/starling_p1_obfuscations.html" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404532713515253971#9</id>
+    <title>[iOS] One Byte to rule them all</title>
+    <updated>2020-07-31T11:36:18+08:00</updated>
+    <content type="html">One Byte to rule them all - 不依赖 Fake Mach Ports 技术，如何将一字节的堆溢出漏洞转换成任意地址读写</content>
+    <link href="https://googleprojectzero.blogspot.com/2020/07/one-byte-to-rule-them-all.html?m=1" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404532713515253971#10</id>
+    <title>[iOS] 2035 - iOS: PPL bypass due to incorrect argument verification in pmap_protect_options_internal() and pmap_remove_options_internal() - project-zero</title>
+    <updated>2020-07-31T11:36:18+08:00</updated>
+    <content type="html">Issue 2035: iOS: PPL bypass due to incorrect argument verification in pmap_protect_options_internal() and pmap_remove_options_internal() </content>
+    <link href="https://bugs.chromium.org/p/project-zero/issues/detail?id=2035" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404532350028480735#0</id>
+    <title>​​[Windows] Official Support for Remote Debugging a .NET Core Linux app in WSL2 from Visual Studio on Windows</title>
+    <updated>2020-07-30T11:31:56+08:00</updated>
+    <content type="html">Windows上的Visual Studio新版在WSL2中将支持远程调试.NET Core Linux应用程序。</content>
+    <link href="https://www.hanselman.com/blog/OfficialSupportForRemoteDebuggingANETCoreLinuxAppInWSL2FromVisualStudioOnWindows.aspx" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404532350028480735#1</id>
+    <title>'BootHole' attack impacts Windows and Linux systems using GRUB2 and Secure Boot | ZDNet</title>
+    <updated>2020-07-30T11:31:56+08:00</updated>
+    <content type="html">关于GRUB2中的BootHole漏洞对Windows和Linux系统的影响</content>
+    <link href="https://www.zdnet.com/article/boothole-attack-impacts-windows-and-linux-systems-using-grub2-and-secure-boot/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404532350028480735#2</id>
+    <title>You don’t need SMS-2FA.</title>
+    <updated>2020-07-30T11:31:56+08:00</updated>
+    <content type="html">Tavis Ormandy 写了一篇 Blog 分析短信验证码双因素认证方式的问题</content>
+    <link href="http://blog.cmpxchg8b.com/2020/07/you-dont-need-sms-2fa.html" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404532350028480735#3</id>
+    <title>[Web] Arbitrary file upload vulnerability in Wordpress wpDiscuz plugin</title>
+    <updated>2020-07-30T11:31:56+08:00</updated>
+    <content type="html">WordPress wpDiscuz插件中的任意文件上传漏洞http：// </content>
+    <link href="http://www.mannulinux.org/2020/07/file-upload-vulnerability-wpDiscuz.html" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404532350028480735#4</id>
+    <title>Abusing Docker Registry to gain access to a mounted Volume</title>
+    <updated>2020-07-30T11:31:56+08:00</updated>
+    <content type="html">滥用Docker Registry来访问已安装的卷 </content>
+    <link href="https://blog.pentesteracademy.com/abusing-docker-registry-to-gain-access-to-a-mounted-volume-8649f8cc0b3e" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404532350028480735#5</id>
+    <title>[iOS] Team Pangu demonstrates unpatchable Secure Enclave Processor (SEP) chip vulnerability in iOS</title>
+    <updated>2020-07-30T11:31:56+08:00</updated>
+    <content type="html">盘古团队在MOSEC会议上展示了iOS中不可修复的SEP漏洞问题。 </content>
+    <link href="https://androidrookies.com/team-pangu-demonstrates-unpatchable-secure-enclave-processor-sep-chip-vulnerability-in-ios/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404532350028480735#6</id>
+    <title>[Fuzzing, Tools] Home</title>
+    <updated>2020-07-30T11:31:56+08:00</updated>
+    <content type="html">Magma - 用于评估 Fuzzer 的一个工具</content>
+    <link href="https://hexhive.epfl.ch/magma/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404532350028480735#7</id>
+    <title>[Browser] 1072171 - Security: missing the -0 case when intersecting and computing the Type::Range in NumberMax - chromium</title>
+    <updated>2020-07-30T11:31:56+08:00</updated>
+    <content type="html">V8 NumberMax 处理 Type::Range 过程的类型混淆漏洞 Issue</content>
+    <link href="https://bugs.chromium.org/p/chromium/issues/detail?id=1072171" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404532350028480735#8</id>
+    <title>[Windows, Tools] Getting better stack traces in Process Monitor / Process Explorer</title>
+    <updated>2020-07-30T11:31:56+08:00</updated>
+    <content type="html">如何在Process Monitor / Process Explorer中获得更好的堆栈跟踪 </content>
+    <link href="https://tinyurl.com/yxr2ltan" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404532350028480735#9</id>
+    <title>[Malware] Doki, an undetectable Linux backdoor targets Docker Servers</title>
+    <updated>2020-07-30T11:31:56+08:00</updated>
+    <content type="html">Doki，一个以Docker服务器为目标的无法检测到的Linux后门 </content>
+    <link href="https://securityaffairs.co/wordpress/106519/malware/doki-linux-backdoor-docker.html" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404532350028480735#10</id>
+    <title>[Attack] APT trends report Q2 2020</title>
+    <updated>2020-07-30T11:31:56+08:00</updated>
+    <content type="html">卡巴斯基发布的 2020 Q2 APT 趋势分析报告</content>
+    <link href="https://securelist.com/apt-trends-report-q2-2020/97937/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404532350028480735#11</id>
+    <title>[Browser] Speculation in JavaScriptCore</title>
+    <updated>2020-07-30T11:31:56+08:00</updated>
+    <content type="html">Speculation in JavaScriptCore</content>
+    <link href="https://webkit.org/blog/10308/speculation-in-javascriptcore/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404532350028480735#12</id>
+    <title>CVE-2020–9934: Bypassing the OS X Transparency, Consent, and Control (TCC) Framework for…</title>
+    <updated>2020-07-30T11:31:56+08:00</updated>
+    <content type="html">TCC 框架被发现漏洞,普通用户可以利用此漏洞直接访问隐私数据</content>
+    <link href="https://medium.com/@mattshockl/cve-2020-9934-bypassing-the-os-x-transparency-consent-and-control-tcc-framework-for-4e14806f1de8" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404532350028480735#13</id>
+    <title>Subscribe to Email Updates</title>
+    <updated>2020-07-30T11:31:56+08:00</updated>
+    <content type="html">启动组件 GRUB2 被发现缓冲区溢出漏洞,可被利用 Bypass Secure Boot</content>
+    <link href="https://capsule8.com/blog/grubbing-secure-boot-the-wrong-way-cve-2020-10713/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404532350028480735#14</id>
+    <title>[Tools] Detection Deficit: A Year in Review of 0-days Used In-The-Wild in 2019</title>
+    <updated>2020-07-30T11:31:56+08:00</updated>
+    <content type="html">Project Zero 发表一篇 Blog，对去年野外被利用的 0Day 漏洞的分析总结</content>
+    <link href="https://googleprojectzero.blogspot.com/2020/07/detection-deficit-year-in-review-of-0.html" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404531985656971448#0</id>
+    <title>​​[Windows] PROGRAM DESCRIPTION</title>
+    <updated>2020-07-29T11:24:03+08:00</updated>
+    <content type="html">Windows Bug Bounty 计划的评判标准和奖金额度更新了</content>
+    <link href="https://www.microsoft.com/en-us/msrc/bounty-windows-insider-preview?rtc=1" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404531985656971448#1</id>
+    <title>'Ghostwriter' Influence Campaign: Unknown Actors Leverage Website Compromises and Fabricated Content to Push Narratives Aligned With Russian Security Interests</title>
+    <updated>2020-07-29T11:24:03+08:00</updated>
+    <content type="html">FireEye 发布的 'Ghostwriter' 行动分析报告</content>
+    <link href="https://www.fireeye.com/blog/threat-research/2020/07/ghostwriter-influence-campaign.html" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404531985656971448#2</id>
+    <title>Authorization bypass in Google’s ticketing system (Google-GUTS)</title>
+    <updated>2020-07-29T11:24:03+08:00</updated>
+    <content type="html">Google Ticket 系统认证绕过漏洞分析</content>
+    <link href="https://www.ehpus.com/post/authorization-bypass-in-google-s-ticketing-system" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404531985656971448#3</id>
+    <title>CVE-2020-13777 GnuTLS audit: be scared</title>
+    <updated>2020-07-29T11:24:03+08:00</updated>
+    <content type="html">开源组件 GnuTLS CVE-2020-13777 漏洞的影响面分析</content>
+    <link href="https://anarc.at/blog/2020-06-10-gnutls-audit/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404531985656971448#4</id>
+    <title>[Tools] sysdream/ligolo</title>
+    <updated>2020-07-29T11:24:03+08:00</updated>
+    <content type="html">Ligolo - 为渗透测试专门设计的一款反向 Socks5/TCP 隧道传输工具</content>
+    <link href="https://github.com/sysdream/ligolo" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404531985656971448#5</id>
+    <title>GitHub - zhutougg/Awesome-Intranet_pentest_tool</title>
+    <updated>2020-07-29T11:24:03+08:00</updated>
+    <content type="html">内网渗透测试常用工具收集</content>
+    <link href="https://github.com/zhutougg/Awesome-Intranet_pentest_tool" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404531985656971448#6</id>
+    <title>[Windows] etw tracing handles in kernel</title>
+    <updated>2020-07-29T11:24:03+08:00</updated>
+    <content type="html">深入对内核中的etw跟踪句柄研究。</content>
+    <link href="https://redplait.blogspot.com/2020/07/etw-tracing-handles-in-kernel.html" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404531985656971448#7</id>
+    <title>MMS Exploit Part 3: Constructing the Memory Corruption Primitives</title>
+    <updated>2020-07-29T11:24:03+08:00</updated>
+    <content type="html">MMS Exploit Part 3: Constructing the Memory Corruption Primitives</content>
+    <link href="https://googleprojectzero.blogspot.com/2020/07/mms-exploit-part-3-constructing-primitives.html" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404531985656971448#8</id>
+    <title>[Browser] YouTube</title>
+    <updated>2020-07-29T11:24:03+08:00</updated>
+    <content type="html">Chrome University 2018（视频）</content>
+    <link href="https://www.youtube.com/playlist?list=PL9ioqAuyl6UIFAdsM5KU6P-hRJdh-BPmm" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404531985656971448#9</id>
+    <title>Exploiting Electron Applications using Debug Feature</title>
+    <updated>2020-07-29T11:24:03+08:00</updated>
+    <content type="html">Exploiting Electron Applications using Debug Feature</content>
+    <link href="https://evren.ninja/en/post/exploiting-electron-applications-/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404531985656971448#10</id>
+    <title>[Android] MOBISEC</title>
+    <updated>2020-07-29T11:24:03+08:00</updated>
+    <content type="html">MOBISEC 站点将 Mobile Systems and Smartphone Security 课程的 PPT 都公开了</content>
+    <link href="https://mobisec.reyammer.io/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404531985656971448#11</id>
+    <title>[Tools, IoT] Open and cheap DIY IP-KVM based on Raspberry Pi</title>
+    <updated>2020-07-29T11:24:03+08:00</updated>
+    <content type="html">基于Raspberry Pi的开源性廉价DIY IP-KVM系统。</content>
+    <link href="https://github.com/pikvm/pikvm" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404531985656971448#12</id>
+    <title>Kubernetes Vulnerability Puts Clusters at Risk of Takeover (CVE-2020-8558)</title>
+    <updated>2020-07-29T11:24:03+08:00</updated>
+    <content type="html">Kubernetes 网络组件 kube-proxy CVE-2020-8558 漏洞的分析</content>
+    <link href="https://bit.ly/2CYwc41" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404531985656971448#13</id>
+    <title>[CTF] Announcing Pwn2Own Tokyo 2020 – Live from Toronto!</title>
+    <updated>2020-07-29T11:24:03+08:00</updated>
+    <content type="html">Pwn2Own Tokyo 2020 比赛将于 11 月在线上举办</content>
+    <link href="https://www.thezdi.com/blog/2020/7/28/announcing-pwn2own-tokyo-2020-live-from-toronto" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404531625773105430#0</id>
+    <title>​​Revised Homograph Attacks - Part 2</title>
+    <updated>2020-07-28T11:34:01+08:00</updated>
+    <content type="html">Revised Homograph Attacks - 浏览器与邮件客户端的 IDN 同形字攻击</content>
+    <link href="https://alephsecurity.com/2020/07/23/revised-homograph-attacks2/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404531625773105430#1</id>
+    <title>NSS 3.55 release notes</title>
+    <updated>2020-07-28T11:34:01+08:00</updated>
+    <content type="html">Mozilla 开源的 NSS SSL 库修复多个漏洞</content>
+    <link href="https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/NSS_3.55_release_notes" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404531625773105430#2</id>
+    <title>“失控”的 IPv6：观察 IPv6 网络环境安全现状</title>
+    <updated>2020-07-28T11:34:01+08:00</updated>
+    <content type="html">“失控”的 IPv6：观察 IPv6 网络环境安全现状.</content>
+    <link href="https://paper.seebug.org/1277/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404531625773105430#3</id>
+    <title>[Android] Checking your browser before accessing bleepingcomputer.com.</title>
+    <updated>2020-07-28T11:34:01+08:00</updated>
+    <content type="html">臭名昭著的Android银行木马Cerberus的源码正在被其作者拍卖</content>
+    <link href="https://www.bleepingcomputer.com/news/security/cerberus-android-malware-source-code-offered-for-sale-for-100-000/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404531625773105430#4</id>
+    <title>[Fuzzing] Coverage Guided Fuzzing in Go</title>
+    <updated>2020-07-28T11:34:01+08:00</updated>
+    <content type="html">为 Go 运行时环境增加对 Coverage Guided Fuzzing 的支持</content>
+    <link href="https://alexplaskett.github.io/coverage-guided-fuzzing-golang/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404531625773105430#5</id>
+    <title>[Tools] CryptoShark</title>
+    <updated>2020-07-28T11:34:01+08:00</updated>
+    <content type="html">Frida 开源的基于 Dynamic Recompilation 的代码 Tracer</content>
+    <link href="https://github.com/frida/cryptoshark" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404531625773105430#6</id>
+    <title>Developing An Antivirus</title>
+    <updated>2020-07-28T11:34:01+08:00</updated>
+    <content type="html">开发防病毒软件系利教程视频‘。</content>
+    <link href="https://www.youtube.com/playlist?list=PLsSH5RsqWMCU_MYbHKSQNzKOJEBj6UQps" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404531625773105430#7</id>
+    <title>[Tools, Android] 1d8/Android-Analysis</title>
+    <updated>2020-07-28T11:34:01+08:00</updated>
+    <content type="html">用于分析移动应用程序的Android VM </content>
+    <link href="https://github.com/1d8/Android-Analysis" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404531625773105430#8</id>
+    <title>[Tools] OilRig Targets Middle Eastern Telecommunications Organization and Adds Novel C2 Channel with Steganography to Its Inventory</title>
+    <updated>2020-07-28T11:34:01+08:00</updated>
+    <content type="html">赛门铁克分析中东电信组织的攻击时发现一种与OilRig相关恶意软件工具，并在电子邮件里使用新颖C2隐写术来隐藏在位图图像中。</content>
+    <link href="https://unit42.paloaltonetworks.com/oilrig-novel-c2-channel-steganography/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404531625773105430#9</id>
+    <title>[macOS] Exploiting popular macOS apps with a single “.terminal” file.</title>
+    <updated>2020-07-28T11:34:01+08:00</updated>
+    <content type="html">利用 .terminal 终端配置文件 Bypass macOS GateKeeper 的检查</content>
+    <link href="https://medium.com/@metnew/exploiting-popular-macos-apps-with-a-single-terminal-file-f6c2efdfedaa" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404531625773105430#10</id>
+    <title>[Tools] README.md</title>
+    <updated>2020-07-28T11:34:01+08:00</updated>
+    <content type="html">使用python解析PE文件的开源工具PE Tree发布</content>
+    <link href="https://github.com/blackberry/pe_tree" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404531625773105430#11</id>
+    <title>[Pentest, Tools] Docker for Pentester: Pentesting Framework</title>
+    <updated>2020-07-28T11:34:01+08:00</updated>
+    <content type="html">基于Docker的渗透测试环境Pentesting</content>
+    <link href="https://www.hackingarticles.in/docker-for-pentester-pentesting-framework/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404531625773105430#12</id>
+    <title>fireeye/flare-vm</title>
+    <updated>2020-07-28T11:34:01+08:00</updated>
+    <content type="html">FireEye FLARE VM 开源的面向恶意软件分析和应急响应的 Windows 虚拟机</content>
+    <link href="https://github.com/fireeye/flare-vm" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404531264274432312#0</id>
+    <title>​​In Memory Cobalt Strike Shellcode Beacon decoding to evade AVs</title>
+    <updated>2020-07-27T11:37:32+08:00</updated>
+    <content type="html">如何通过内存解码的方式加载CobaltStrike的Beacon马并不被杀软和EDR检测</content>
+    <link href="https://shells.systems/in-memory-shellcode-decoding-to-evade-avs/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404531264274432312#1</id>
+    <title>[Malware] Zero2Automated Advanced Malware RE Course — Custom Sample Analysis</title>
+    <updated>2020-07-27T11:37:32+08:00</updated>
+    <content type="html">定制的高级恶意样本分析教程</content>
+    <link href="https://medium.com/@ReversingMagic/zero2automated-advanced-malware-re-course-custom-sample-analysis-40e14ddca78d" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404531264274432312#2</id>
+    <title>[Tools, Malware] Qiling For Malware Analysis: Part 1</title>
+    <updated>2020-07-27T11:37:32+08:00</updated>
+    <content type="html">恶意软件分析Qiling：第1部分</content>
+    <link href="https://n1ght-w0lf.github.io/tutorials/qiling-for-malware-analysis-part-1/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404531264274432312#3</id>
+    <title>[Malware] Crimson RAT Malware Analysis</title>
+    <updated>2020-07-27T11:37:32+08:00</updated>
+    <content type="html">Crimson RAT 恶意样本的新技术分析</content>
+    <link href="http://malwr-analysis.com/2020/07/24/crimson-rat-malware-analysis/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404531264274432312#4</id>
+    <title>[Tools] Asynchronous task processing in Node.js with Bull - LogRocket Blog</title>
+    <updated>2020-07-27T11:37:32+08:00</updated>
+    <content type="html">如何利用Node.js的Bull库处理异步任务</content>
+    <link href="https://blog.logrocket.com/asynchronous-task-processing-in-node-js-with-bull/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404531264274432312#5</id>
+    <title>[macOS, Tools] Frida 12.11 Released</title>
+    <updated>2020-07-27T11:37:32+08:00</updated>
+    <content type="html">Frida 12.11 版本发布，新增对 macOS 11 Beta 3 版本的兼容性支持</content>
+    <link href="https://frida.re/news/2020/07/24/frida-12-11-released/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404531264274432312#6</id>
+    <title>GraphQL — Common vulnerabilities &amp; how to exploit them</title>
+    <updated>2020-07-27T11:37:32+08:00</updated>
+    <content type="html">GraphQL 工具的常见错误配置以及如何被利用</content>
+    <link href="https://link.medium.com/oiEg6EG6v5" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404531264274432312#7</id>
+    <title>[Virtualization] Hunting for bugs in VirtualBox (First Take)</title>
+    <updated>2020-07-27T11:37:32+08:00</updated>
+    <content type="html">探索VirtualBox中内部的错误安全问题（优先）。</content>
+    <link href="http://blog.paulch.ru/2020-07-26-hunting-for-bugs-in-virtualbox-first-take.html" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404531264274432312#8</id>
+    <title>InfoSec Handlers Diary Blog</title>
+    <updated>2020-07-27T11:37:32+08:00</updated>
+    <content type="html">如何处理带密码保护的VBA代码</content>
+    <link href="https://isc.sans.edu/diary/rss/26390" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404531264274432312#9</id>
+    <title>[Reverse Engineering] How To Sinkhole A Botnet</title>
+    <updated>2020-07-27T11:37:32+08:00</updated>
+    <content type="html">IRC僵尸网络分析-视频教程</content>
+    <link href="https://www.youtube.com/watch?v=FAFuSO9oAl0" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404531264274432312#10</id>
+    <title>[Android] Android Applications Pentesting</title>
+    <updated>2020-07-27T11:37:32+08:00</updated>
+    <content type="html">Android Applications Pentesting</content>
+    <link href="https://book.hacktricks.xyz/mobile-apps-pentesting/android-app-pentesting" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404531264274432312#11</id>
+    <title>[Windows] Seeing (Sig)Red</title>
+    <updated>2020-07-27T11:37:32+08:00</updated>
+    <content type="html">编写 Suricata 开源 IDS 规则，检测 Windows DNS Server 最近被爆出的 SigRed (CVE-2020-1350) 漏洞</content>
+    <link href="https://sensepost.com/blog/2020/seeing-sigred/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404531264274432312#12</id>
+    <title>Write up for CVE id CVE-2020-15778.</title>
+    <updated>2020-07-27T11:37:32+08:00</updated>
+    <content type="html">OpenSSH 8.3p1 CVE-2020-15778 eval 注入漏洞分析</content>
+    <link href="https://github.com/cpandya2909/CVE-2020-15778" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404530178024931331#0</id>
+    <title>​​[PDF] https://pdf-insecurity.org/download/report-pdf-signatures-2020-03-02.pdf</title>
+    <updated>2020-07-24T11:41:10+08:00</updated>
+    <content type="html">PDF 文档数字签名 Bypass 的多个方法</content>
+    <link href="https://pdf-insecurity.org/download/report-pdf-signatures-2020-03-02.pdf" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404530178024931331#1</id>
+    <title>Attacking MS Exchange Web Interfaces</title>
+    <updated>2020-07-24T11:41:10+08:00</updated>
+    <content type="html">MS Exchange Web 接口攻击方法总结以及从互联网攻击 MS Exchange 泄漏 AD 域信息的新方法</content>
+    <link href="https://swarm.ptsecurity.com/attacking-ms-exchange-web-interfaces/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404530178024931331#2</id>
+    <title>[Tools] Fix #17135 - Support Memory Tagging Extension instructions ##anal (#1… · radareorg/radare2@1dbe43d</title>
+    <updated>2020-07-24T11:41:10+08:00</updated>
+    <content type="html">逆向分析工具 Radare2 新增对 MTE 指令的支持</content>
+    <link href="https://github.com/radareorg/radare2/commit/1dbe43d" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404530178024931331#3</id>
+    <title>[Tools] 7 Days to Lift: A Mission in Microcode</title>
+    <updated>2020-07-24T11:41:10+08:00</updated>
+    <content type="html">扩展 IDA Hex-Rays 的反编译器，增加对 Intel AVX 指令的支持</content>
+    <link href="https://blog.ret2.io/2020/07/22/ida-pro-avx-decompiler/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404530178024931331#4</id>
+    <title>[Tools] hardenedlinux/harbian-qa</title>
+    <updated>2020-07-24T11:41:10+08:00</updated>
+    <content type="html">为内核 Fuzz 工具 Syzkaller 实现对 Coverage Filter 的支持</content>
+    <link href="https://github.com/hardenedlinux/harbian-qa/blob/master/syzkaller/cover_filter.md" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404530178024931331#5</id>
+    <title>[Tools] GitHub - bitdefender/bddisasm: bddisasm is a fast, lightweight, x86/x64 instruction decoder. The project also features a fast, basic, x86/x64 instruction emulator, designed specifically to detect shellcode-like behavior.</title>
+    <updated>2020-07-24T11:41:10+08:00</updated>
+    <content type="html">bddisasm - BitDefender 开源的一个高性能轻量级的 x86/x64 指令反汇编工具</content>
+    <link href="https://github.com/bitdefender/bddisasm" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404530178024931331#6</id>
+    <title>Chaining 5 Bugs for Code Execution on the Rockwell FactoryTalk HMI at Pwn2Own Miami</title>
+    <updated>2020-07-24T11:41:10+08:00</updated>
+    <content type="html">组合 5 个漏洞实现工控软件 Rockwell FactoryTalk View SE 的代码执行</content>
+    <link href="https://www.thezdi.com/blog/2020/7/22/chaining-5-bugs-for-code-execution-on-the-rockwell-factorytalk-hmi-at-pwn2own-miami" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404530178024931331#7</id>
+    <title>Cisco Network Security Flaw Leaks Sensitive Data</title>
+    <updated>2020-07-24T11:41:10+08:00</updated>
+    <content type="html">思科 Firepower 和 ASA 软件被发现高危漏洞，可以泄漏敏感数据，已有攻击者公开 PoC</content>
+    <link href="https://threatpost.com/network-security-cisco-flaw-leaks-sensitive-data/157691/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404530178024931331#8</id>
+    <title>Garmin Suffers Reported Ransomware Attack</title>
+    <updated>2020-07-24T11:41:10+08:00</updated>
+    <content type="html">由于遭受勒索软件攻击，智能穿戴设备公司佳明（Garmin）多个服务从周三夜里开始下线，至今未恢复</content>
+    <link href="https://threatpost.com/garmin-suffers-ransomware-attack/157698/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404530178024931331#9</id>
+    <title>[Fuzzing] MMS Exploit Part 2: Effective Fuzzing of the Qmage Codec</title>
+    <updated>2020-07-24T11:41:10+08:00</updated>
+    <content type="html">MMS Exploit Part 2: Effective Fuzzing of the Qmage Codec</content>
+    <link href="https://googleprojectzero.blogspot.com/2020/07/mms-exploit-part-2-effective-fuzzing-qmage.html?m=1" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404530178024931331#10</id>
+    <title>HTTP Referer Leak</title>
+    <updated>2020-07-24T11:41:10+08:00</updated>
+    <content type="html">通过 HTTP Referer 泄漏各类敏感信息的攻击方式与防御方法</content>
+    <link href="https://www.youtube.com/watch?v=uDigwNal7GQ" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404529821295182069#0</id>
+    <title>​​Checking your browser before accessing bleepingcomputer.com.</title>
+    <updated>2020-07-23T12:03:39+08:00</updated>
+    <content type="html">D-Link路由器漏洞：未加密映像中公开的固件密钥 </content>
+    <link href="https://www.bleepingcomputer.com/news/security/d-link-blunder-firmware-encryption-key-exposed-in-unencrypted-image/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404529821295182069#1</id>
+    <title>[Tools, macOS] Virtualization | Apple Developer Documentation</title>
+    <updated>2020-07-23T12:03:39+08:00</updated>
+    <content type="html">macOS 新增了一个虚拟化 Framework - Virtualization.framework</content>
+    <link href="https://developer.apple.com/documentation/virtualization" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404529821295182069#2</id>
+    <title>Tool Release: Sinking U-Boots with Depthcharge</title>
+    <updated>2020-07-23T12:03:39+08:00</updated>
+    <content type="html">NCCGroup 开源的用于分析 U-Boot bootloader 的工具</content>
+    <link href="https://research.nccgroup.com/2020/07/22/depthcharge/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404529821295182069#3</id>
+    <title>[Report, Attack] CYBER ATTACK TRENDS: 2019 MID-YEAR REPORT - Check Point Research</title>
+    <updated>2020-07-23T12:03:39+08:00</updated>
+    <content type="html">Checkpoint 发布《2020 年上半年网络攻击趋势报告》</content>
+    <link href="https://research.checkpoint.com/cyber-attack-trends-2019-mid-year-report/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404529821295182069#4</id>
+    <title>[Conference] Emulating Hypervisors: a Samsung RKP case study (OffensiveCon 2020)</title>
+    <updated>2020-07-23T12:03:39+08:00</updated>
+    <content type="html">OffensiveCon 2020 会议关于用 QEMU 模拟专用 Hypervisor 的议题 “Emulating Hypervisors: a Samsung RKP case study”</content>
+    <link href="https://census-labs.com/news/2020/07/22/emulating-hypervisors-a-samsung-rkp-case-study-offensivecon-2020/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404529821295182069#5</id>
+    <title>[Backdoor] Backdooring PE-File (with ASLR) – HanseSecure</title>
+    <updated>2020-07-23T12:03:39+08:00</updated>
+    <content type="html">针对后门PE文件程序（带有ASLR）调试分析。</content>
+    <link href="https://hansesecure.de/2019/05/backdooring-pe-file-with-aslr/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404529821295182069#6</id>
+    <title>Apple Security Research Device Program</title>
+    <updated>2020-07-23T12:03:39+08:00</updated>
+    <content type="html">Apple 将向合格的安全研究者发放 Apple 设备用于研究，可惜不包括中国研究员</content>
+    <link href="https://developer.apple.com/programs/security-research-device/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404529821295182069#7</id>
+    <title>[Web] Exploiting Imported Libraries to Bypass Cloudflare WAF</title>
+    <updated>2020-07-23T12:03:39+08:00</updated>
+    <content type="html">Exploiting Imported Libraries to Bypass Cloudflare WAF</content>
+    <link href="https://medium.com/bugbountywriteup/exploiting-imported-libraries-to-bypass-cloudflare-waf-7aed99186c5a?source=rss----7b722bfd1b8d---4" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404529821295182069#8</id>
+    <title>[Malware] Lazarus Group Surfaces with Advanced Malware Framework</title>
+    <updated>2020-07-23T12:03:39+08:00</updated>
+    <content type="html">卡巴爆出Lazarus新攻击框架MATA，可针对Windows，Linux、MacOS三平台发起攻击</content>
+    <link href="https://threatpost.com/lazarus-group-advanced-malware-framework/157636/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404529821295182069#9</id>
+    <title>[Tools] README.md</title>
+    <updated>2020-07-23T12:03:39+08:00</updated>
+    <content type="html">Rustscan - 一个主打速度的端口扫描器，号称可以 8 秒内扫描 6 万多个端口</content>
+    <link href="https://github.com/brandonskerritt/RustScan" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404529457397629137#0</id>
+    <title>​​[Windows] Exploring the Windows Activity Timeline, Part 2: Synching Across Devices</title>
+    <updated>2020-07-22T11:57:40+08:00</updated>
+    <content type="html">探索Windows活动时间轴，第2部分：跨设备平台同步。</content>
+    <link href="https://www.blackbagtech.com/blog/exploring-the-windows-activity-timeline-part-2-synching-across-devices/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404529457397629137#1</id>
+    <title>Emulating Covert Operations - Dynamic Invocation (Avoiding PInvoke &amp; API Hooks)</title>
+    <updated>2020-07-22T11:57:40+08:00</updated>
+    <content type="html">利用 SharpSploit 的新 API - DInvoke 实现动态调用非托管代码</content>
+    <link href="https://thewover.github.io/Dynamic-Invoke/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404529457397629137#2</id>
+    <title>[Windows] Secure Pool Internals : Dynamic KDP Behind The Hood – Winsider Seminars &amp; Solutions Inc.</title>
+    <updated>2020-07-22T11:57:40+08:00</updated>
+    <content type="html">Secure Pool Internals : Dynamic KDP Behind The Hood </content>
+    <link href="https://windows-internals.com/secure-pool/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404529457397629137#3</id>
+    <title>[Tools] PE Emulation With Code Coverage Using Qiling and Dragon Dance | infosec4breakfast</title>
+    <updated>2020-07-22T11:57:40+08:00</updated>
+    <content type="html">利用 Qiling 框架实现带有代码覆盖率信息的 PE 文件模拟执行</content>
+    <link href="https://pwnage.io/pe-code-coverage-emulation-qiling/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404529457397629137#4</id>
+    <title>Systems Performance: Enterprise and the Cloud, 2nd Edition</title>
+    <updated>2020-07-22T11:57:40+08:00</updated>
+    <content type="html">《系统性能：企业和云》第二版书籍介绍。</content>
+    <link href="http://www.brendangregg.com/blog/2020-07-15/systems-performance-2nd-edition.html" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404529457397629137#5</id>
+    <title>[Windows] Checking your browser before accessing bleepingcomputer.com.</title>
+    <updated>2020-07-22T11:57:40+08:00</updated>
+    <content type="html">攻击者可利用Windows 10 Microsoft Store名为 wsreset.exe的工具绕过杀软检测 </content>
+    <link href="https://www.bleepingcomputer.com/news/security/windows-10-store-wsreset-tool-lets-attackers-bypass-antivirus/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404529457397629137#6</id>
+    <title>Raining SYSTEM Shells with Citrix Workspace app</title>
+    <updated>2020-07-22T11:57:40+08:00</updated>
+    <content type="html">Citrix Workspace 软件命名管道校验 Client 的漏洞实现获取 SYSTEM Shell</content>
+    <link href="https://www.pentestpartners.com/security-blog/raining-system-shells-with-citrix-workspace-app/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404529457397629137#7</id>
+    <title>Abusing Java Remote Protocols in IBM WebSphere</title>
+    <updated>2020-07-22T11:57:40+08:00</updated>
+    <content type="html">Abusing Java Remote Protocols in IBM WebSphere</content>
+    <link href="https://www.thezdi.com/blog/2020/7/20/abusing-java-remote-protocols-in-ibm-websphere" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404529457397629137#8</id>
+    <title>PThammer: Cross-User-Kernel-Boundary Rowhammer through Implicit Accesses</title>
+    <updated>2020-07-22T11:57:40+08:00</updated>
+    <content type="html">PThammer - 利用现代处理器地址翻译过程的缺陷攻击 Rowhammer 问题的缓解措施</content>
+    <link href="https://arxiv.org/abs/2007.08707" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404529457397629137#9</id>
+    <title>[Windows, Tools] dazzleUP</title>
+    <updated>2020-07-22T11:57:40+08:00</updated>
+    <content type="html">一种检测Windows操作系统中由于配置错误和缺少更新而导致的特权提升漏洞的工具dazzleUP</content>
+    <link href="https://github.com/hlldz/dazzleUP" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404529457397629137#10</id>
+    <title>Critical Adobe Photoshop Flaws Patched in Emergency Update</title>
+    <updated>2020-07-22T11:57:40+08:00</updated>
+    <content type="html">Adobe 发布例外更新，紧急修复 Photoshop 产品的多个高危漏洞</content>
+    <link href="https://threatpost.com/critical-adobe-photoshop-flaws-patched-in-emergency-update/157581/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404529457397629137#11</id>
+    <title>[Windows] Windows Kernel Exploit Cheat Sheet for [HackTheBox] - 高林の雑記ブログ</title>
+    <updated>2020-07-22T11:57:40+08:00</updated>
+    <content type="html">近些年的 Windows 内核漏洞 Exploit 资料收集整理</content>
+    <link href="https://kakyouim.hatenablog.com/entry/2020/05/27/010807" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404529457397629137#12</id>
+    <title>[Tools] GReAT thoughts: Awesome IDA Pro plugins</title>
+    <updated>2020-07-22T11:57:40+08:00</updated>
+    <content type="html">卡巴斯基开源了几个 IDA Pro 的插件，用于高亮所有 CALL/BL 指令、识别已知函数、整合 YARA 规则 </content>
+    <link href="https://securelist.com/great-ida-pro-plugins/97898/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404529096695873662#0</id>
+    <title>​​[Fuzzing] Exploiting an Envoy heap vulnerability</title>
+    <updated>2020-07-21T12:04:21+08:00</updated>
+    <content type="html">Exploiting an Envoy heap vulnerability </content>
+    <link href="https://blog.envoyproxy.io/exploiting-an-envoy-heap-vulnerability-96173d41792" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404529096695873662#1</id>
+    <title>Norec Attack: Stripping BLE encryption from Nordic’s Library (CVE-2020–15509)</title>
+    <updated>2020-07-21T12:04:21+08:00</updated>
+    <content type="html">用于为 Android 应用提供 BLE 设备连接的 Nordic 库被发现漏洞</content>
+    <link href="https://medium.com/bugbountywriteup/norec-attack-stripping-ble-encryption-from-nordics-library-cve-2020-15509-9798ab893b95" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404529096695873662#2</id>
+    <title>[iOS] Secfault Security - Writing an iOS Kernel Exploit from Scratch</title>
+    <updated>2020-07-21T12:04:21+08:00</updated>
+    <content type="html">从头开始编写iOS Kernel Exploit</content>
+    <link href="https://secfault-security.com/blog/chain3.html" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404529096695873662#3</id>
+    <title>GitHub security team finds remote code execution bug in popular Node.js changelog library</title>
+    <updated>2020-07-21T12:04:21+08:00</updated>
+    <content type="html">GitHub安全团队在流行的Node.js changelog库中发现了远程代码执行漏洞</content>
+    <link href="https://portswigger.net/daily-swig/github-security-team-finds-remote-code-execution-bug-in-popular-node-js-changelog-library" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404529096695873662#4</id>
+    <title>[Windows, Vulnerability] SharePoint and Pwn :: Remote Code Execution Against SharePoint Server Abusing DataSet</title>
+    <updated>2020-07-21T12:04:21+08:00</updated>
+    <content type="html">SharePoint and Pwn :: Remote Code Execution Against SharePoint Server Abusing DataSet</content>
+    <link href="https://srcincite.io/blog/2020/07/20/sharepoint-and-pwn-remote-code-execution-against-sharepoint-server-abusing-dataset.html" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404529096695873662#5</id>
+    <title>Waiting for the redirectiron...</title>
+    <updated>2020-07-21T12:04:21+08:00</updated>
+    <content type="html">macOS 平台具有勒索行为的恶意软件 EvilQuest 的分析</content>
+    <link href="https://objective-see.com/blog/blog_0x59.html" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404529096695873662#6</id>
+    <title>[Windows] [Video]Reflective Dll Injection Explained in 10 Minutes Malware Techniques</title>
+    <updated>2020-07-21T12:04:21+08:00</updated>
+    <content type="html">恶意软件常用的反射dll注入技术视频教程</content>
+    <link href="https://feedproxy.google.com/~r/debasish/EYdX/~3/8laNfFePBDk/videoreflective-dll-injection-explained.html" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404529096695873662#7</id>
+    <title>Fastjson 1.2.24 反序列化漏洞深度分析</title>
+    <updated>2020-07-21T12:04:21+08:00</updated>
+    <content type="html">Fastjson parseObject/parse Java 对象反序列化漏洞分析</content>
+    <link href="https://paper.seebug.org/1274/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404529096695873662#8</id>
+    <title>[Conference, Fuzzing] Fuzz Week 2020</title>
+    <updated>2020-07-21T12:04:21+08:00</updated>
+    <content type="html">线上举办的 Fuzz Week 2020 的视频公开了</content>
+    <link href="https://gamozolabs.github.io/2020/07/12/fuzz_week_2020.html" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404529096695873662#9</id>
+    <title>[Tools] Cracking VBA Project Passwords</title>
+    <updated>2020-07-21T12:04:21+08:00</updated>
+    <content type="html">如何利用新的oledump插件plugin_vbaproject破解VBA密码</content>
+    <link href="https://blog.didierstevens.com/2020/07/20/cracking-vba-project-passwords/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404529096695873662#10</id>
+    <title>[Browser] [PDF] https://bit.ly/wasm-binary-security</title>
+    <updated>2020-07-21T12:04:21+08:00</updated>
+    <content type="html">Everything Old is New Again: Binary Security of WebAssembly </content>
+    <link href="https://bit.ly/wasm-binary-security" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404528731040383012#0</id>
+    <title>​​[Tools, Linux] microsoft/ProcMon-for-Linux</title>
+    <updated>2020-07-20T11:51:22+08:00</updated>
+    <content type="html">微软开源了一个 Linux 版本的 Process Monitor</content>
+    <link href="https://github.com/microsoft/ProcMon-for-Linux" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404528731040383012#1</id>
+    <title>[Tools] Python HTTP Based Trojan for Remote System Forensics and Privilege Transfer</title>
+    <updated>2020-07-20T11:51:22+08:00</updated>
+    <content type="html">介绍基于HTTP的Python脚本木马程序安全分析。</content>
+    <link href="https://medium.com/bugbountywriteup/python-http-based-trojan-for-remote-system-forensics-and-privilege-transfer-ae128891b4de?source=rss----7b722bfd1b8d---4" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404528731040383012#2</id>
+    <title>📊 billboard.js 2.0 is out! 🎉🎊</title>
+    <updated>2020-07-20T11:51:22+08:00</updated>
+    <content type="html">billboard.js 2.0发布！ 拥有更轻巧的体积和更高的性能。</content>
+    <link href="https://medium.com/@alberto.park/billboard-js-2-0-is-out-15e84b52ab11" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404528731040383012#3</id>
+    <title>Bypassing Symantec Endpoint Protection for Fun &amp; Profit (Defense Evasion) - Cognosec</title>
+    <updated>2020-07-20T11:51:22+08:00</updated>
+    <content type="html">利用 LOLBin 和 Donut 等工具制作 Symantec 反病毒软件的免杀样本</content>
+    <link href="https://cognosec.com/bypassing-symantec-endpoint-protection-for-fun-profit-defense-evasion/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404528731040383012#4</id>
+    <title>被低估的混乱军团 -WellMess(APT-C-42)组织网络渗透和供应链攻击行动揭秘</title>
+    <updated>2020-07-20T11:51:22+08:00</updated>
+    <content type="html">被低估的混乱军团 -WellMess(APT-C-42)组织网络渗透和供应链攻击行动揭秘</content>
+    <link href="https://mp.weixin.qq.com/s/WmzryWNNJVV7mXABQ1Yu8g" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404528731040383012#5</id>
+    <title>Tutorial of ARM Stack Overflow Exploit – Defeating ASLR with ret2plt</title>
+    <updated>2020-07-20T11:51:22+08:00</updated>
+    <content type="html">ARM 栈溢出 Exploit 开发之利用 ret2plt Bypass ASLR</content>
+    <link href="https://feedproxy.google.com/~r/fortinet/blog/threat-research/~3/i8cpJZFoPNk/tutorial-of-arm-stack-overflow-exploit-defeating-aslr-with-ret2plt" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404528731040383012#6</id>
+    <title>[Windows] Q4n/CVE-2020-1362</title>
+    <updated>2020-07-20T11:51:22+08:00</updated>
+    <content type="html">Windows WalletService 本地提权漏洞分析及利用（CVE-2020-1362）</content>
+    <link href="https://github.com/Q4n/CVE-2020-1362" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404528731040383012#7</id>
+    <title>[Windows, Pentest] Windows Persistence: Port Monitors</title>
+    <updated>2020-07-20T11:51:22+08:00</updated>
+    <content type="html">Windows系统持久性安全分析：端口监视器</content>
+    <link href="https://www.hackingarticles.in/windows-persistence-port-monitors/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404528731040383012#8</id>
+    <title>[Tools] Release 4.5.0 Codename: Organized Chaos · radareorg/radare2</title>
+    <updated>2020-07-20T11:51:22+08:00</updated>
+    <content type="html">二进制逆向分析工具 radare2 更新 4.5.0 版本</content>
+    <link href="https://github.com/radareorg/radare2/releases/tag/4.5.0" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404528731040383012#9</id>
+    <title>[Tools] Update: oledump.py Version 0.0.51</title>
+    <updated>2020-07-20T11:51:22+08:00</updated>
+    <content type="html">oledump最新版本发布</content>
+    <link href="https://blog.didierstevens.com/2020/07/19/update-oledump-py-version-0-0-51/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404528731040383012#10</id>
+    <title>[ExpDev] Vulnserver — Part 2</title>
+    <updated>2020-07-20T11:51:22+08:00</updated>
+    <content type="html">Vulnserver —第2部分（TRUN — EIP覆盖）</content>
+    <link href="https://medium.com/bugbountywriteup/expdev-vulnserver-part-2-46de4dd7bdde?source=rss----7b722bfd1b8d---4" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404528731040383012#11</id>
+    <title>[iOS, Virtualization] Accelerating iOS on QEMU with hardware virtualization (KVM)</title>
+    <updated>2020-07-20T11:51:22+08:00</updated>
+    <content type="html">在开启 KVM 的 QEMU 虚拟机中执行 iOS</content>
+    <link href="https://alephsecurity.com/2020/07/19/xnu-qemu-kvm/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404528731040383012#12</id>
+    <title>[Browser, CTF] 0CTF/TCTF 2020 Chromium series challenge</title>
+    <updated>2020-07-20T11:51:22+08:00</updated>
+    <content type="html">0CTF/TCTF 2020 Chromium 浏览器挑战的 Writeup </content>
+    <link href="https://dmxcsnsbh.github.io/2020/07/20/0CTF-TCTF-2020-Chromium-series-challenge/" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404528731040383012#13</id>
+    <title>DEF CON® 28 Safe Mode Talk Schedule</title>
+    <updated>2020-07-20T11:51:22+08:00</updated>
+    <content type="html">今年 DEF CON 28 Safe Mode 会议的议题列表公布了，会议将于 8 月 6~7 号在线上举办</content>
+    <link href="https://www.defcon.org/html/defcon-safemode/dc-safemode-schedule.html" rel="alternate"/>
+  </entry>
+  <entry>
+    <id>https://weibo.com/ttarticle/p/show?id=2309404528731040383012#14</id>
+    <title>Comprehensive Guide on Path Traversal</title>
+    <updated>2020-07-20T11:51:22+08:00</updated>
+    <content type="html">路径遍历综合指南</content>
+    <link href="https://www.hackingarticles.in/comprehensive-guide-on-path-traversal/" rel="alternate"/>
+  </entry>
+</feed>

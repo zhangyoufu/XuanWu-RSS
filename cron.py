@@ -71,6 +71,7 @@ def weibo_login(username, password):
         'sp': rsa.encrypt(message, pub_key).hex(),
         'pwencode': 'rsa2',
         'url': 'https://www.weibo.com/',
+        'gateway': '1',
     }
     rsp = post('https://login.sina.com.cn/sso/login.php', data=form)
     match = re.search(r'location\.replace\("(.*?)"\);', rsp.text)
